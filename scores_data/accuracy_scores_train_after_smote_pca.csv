@@ -1,0 +1,15 @@
+Model,Accuracy
+Logistic Regression,81.70212765957446
+Decision Tree,100.0
+Random Forest,100.0
+SVM,86.38297872340426
+K-Nearest Neighbors,97.87234042553192
+Naive Bayes,82.5531914893617
+Neural Network,98.72340425531915
+Gradient Boosting,100.0
+Linear Discriminant Analysis,78.72340425531915
+Gaussian Process,99.57446808510639
+Extra Trees,100.0
+Bagging,100.0
+AdaBoost,100.0
+CatBoost,100.0
